@@ -158,6 +158,20 @@ const App = () => {
             See More
           </a>
         </article>
+        <div className="products-bar">
+          <div className="product1 product">
+            <h1>Black Coffee</h1>
+            <p>Coffee Collection</p>
+          </div>
+          <div className="product2 product">
+            <h1>Green / Black Tea</h1>
+            <p>New Items</p>
+          </div>
+          <div className="product3 product">
+            <h1>Chai / Latte Drinks</h1>
+            <p>Buy now with 20% off</p>
+          </div>
+        </div>
       </section>
 
       {/* Prices Section */}
